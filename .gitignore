@@ -1,0 +1,17 @@
+# Swift Package Manager
+.build/
+.swiftpm/
+
+# Local build output in this project
+build/
+
+# Xcode and macOS
+DerivedData/
+*.xcworkspace/xcuserdata/
+*.xcuserdatad/
+*.xcuserstate
+.DS_Store
+
+# Common local environment files
+.env
+.env.*
